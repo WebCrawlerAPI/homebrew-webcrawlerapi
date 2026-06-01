@@ -1,8 +1,8 @@
 class Webcr < Formula
   desc "Turn websites into LLM-ready markdown from the command line with WebCrawlerAPI"
   homepage "https://webcrawlerapi.com"
-  url "https://github.com/webCrawlerAPI/webcr/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "e5349ea6352d3d6abb238d87ba91b3f24f51f3319284dda19ac0d047d5f99fa9"
+  url "https://github.com/webCrawlerAPI/webcr/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "86f47943318ddc0fc5a09c101f30b111f4895246d238fd2d4b0c48824a89921a"
   license "MIT"
 
   depends_on "node"
